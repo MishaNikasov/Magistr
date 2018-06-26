@@ -1,4 +1,4 @@
-public class Ctg extends Function{
+public class Ctg extends Unar {
 
     public Ctg(double value) {
         super(value);

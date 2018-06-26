@@ -1,4 +1,4 @@
-public class Sin extends Function{
+public class Sin extends Unar {
 
     public Sin(double value) {
         super(value);

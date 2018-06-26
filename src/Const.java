@@ -1,4 +1,4 @@
-public class Const extends Function{
+public class Const extends Unar {
 
     public Const(double value) {
         super(value);

@@ -1,4 +1,4 @@
-public class Cos extends Function{
+public class Cos extends Unar {
 
     public Cos(double value) {
         super(value);
